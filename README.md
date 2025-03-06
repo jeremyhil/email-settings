@@ -27,7 +27,7 @@ Will checks only one domain
 
 Reads the domains.txt file (One domain per line) and creates results.txt
 
-<kbd>python emailcheck_unkown.py</kbd>
+<kbd>python emailcheck_unknown.py</kbd>
 
 Same as emailcheck.py but tests using three selectors (default, selector1, selector2)
 
@@ -35,4 +35,4 @@ Same as emailcheck.py but tests using three selectors (default, selector1, selec
 
 What if the selector is not known?
 
-We could test with multiply values eg: using emailcheck_unkown.py
+We could test with multiply values eg: using emailcheck_unknown.py
