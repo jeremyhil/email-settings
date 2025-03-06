@@ -13,17 +13,19 @@ Lets explore the options in Python using dns.resolver
 
 Install the dnspython library if you don’t have it already
 
-pip install dnspython
+<kbd>pip install dnspython</kbd>
 
 ## Running
 
-python exploremail.py
+<kbd>python exploremail.py</kbd>
+
 Will checks only one domain
 
-python emailcheck.py
+<kbd>python emailcheck.py</kbd>
+
 Reads the domains.txt file (One domain per line) and creates results.txt
 
 ### Ongoing
 
 What if the selector is not known?
-Could we test for it?
+Could we test for it first?
